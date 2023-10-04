@@ -1,0 +1,74 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" type="text/css"  href="sanpro.css">
+</head>
+<body>
+        
+        <div class="d1">
+            <h1 class="a1">About:</h1>
+            </div>
+            <div class="d2">
+              <div class="d3">
+                <pre>  
+               <p class="p1">
+                  I am M.Sanjay,persuing Engineering degree in
+                  ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY 
+                  with a passion of software development. I am
+                  looking for a job where I can put all  my efforts.
+                  I was also interested in Web Development and
+                  Networks and Data sciences.I will also enhance my
+                  leadership skills.
+      
+                                      Gmail:sanjay2cool54@gmail.com
+                          Phone no:9652352592
+               </p></pre>
+              </div>
+              <div class="d4">
+                <img src="img2.jpg" alt="" class="img1">
+              </div>
+            </div>
+            <h1 class="a2">Education:</h1>
+            <div class="d5">
+              <table>
+                  <tr>
+                      <td width="100px">2018-19</td>
+                      <td>10th-94% </td>
+                      <td>Sri Chaitnaya School-Viziaganaram</td>
+                  </tr>
+                  <tr>
+                      <td>2019-21</td>
+                      <td>12th-93%</td>
+                      <td>  Kalams Junior College,Vizianagaram</td>
+                  </tr>
+                  <tr>
+                      <td>2021-23</td>
+                      <td>b.tech(till 2-1)-85%</td>
+                     <td>Anil Neerukonda Institute of Technology & Sciences</td>
+                  </tr>
+                  </table>
+            </div>
+            <div class="d6">
+            <h1 class="a3">Skills:</h1>
+           <pre>
+              • <b>Html and CSS               - 80%  </b>
+      
+              • <b>Python programming         - 70% </b>
+      
+              • <b>DataBase Management System - 75%  </b>
+              </pre>
+              </div>
+              <div class="d7">
+              <h1 class="a4">Certifications:</h1>
+              <pre class="last">
+                  • Nptel Certification - Data structures and algorithms using python
+      
+                  • Rinex Certification - python
+           </pre>
+              </div>
+        
+    
+</body>
+</html>
